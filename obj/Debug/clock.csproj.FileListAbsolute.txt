@@ -1,0 +1,9 @@
+C:\Users\thtjdhdj\Desktop\clock\bin\Debug\clock.exe.config
+C:\Users\thtjdhdj\Desktop\clock\bin\Debug\clock.exe
+C:\Users\thtjdhdj\Desktop\clock\bin\Debug\clock.pdb
+C:\Users\thtjdhdj\Desktop\clock\obj\Debug\clock.csprojResolveAssemblyReference.cache
+C:\Users\thtjdhdj\Desktop\clock\obj\Debug\clock.Form1.resources
+C:\Users\thtjdhdj\Desktop\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Users\thtjdhdj\Desktop\clock\obj\Debug\clock.csproj.GenerateResource.Cache
+C:\Users\thtjdhdj\Desktop\clock\obj\Debug\clock.exe
+C:\Users\thtjdhdj\Desktop\clock\obj\Debug\clock.pdb
